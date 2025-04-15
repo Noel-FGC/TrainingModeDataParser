@@ -1,0 +1,5 @@
+bin
+obj
+**.bin
+**.txt
+**.bak
